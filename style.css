@@ -1,0 +1,30 @@
+body{
+    background-color: #d1d1d1;
+    margin-left: 5px;
+}
+
+.felix{
+    /* width: 20%; */
+    align-self: flex-end;
+}
+.felix-wrapper{
+    margin-top: 50vh;
+    display: flex;
+    /* height: 150vh; */
+    width: 50vw;
+}
+.bottom-photo-wrap{
+    display: flex;
+    gap: 27vw;
+}
+.info-wrapper{
+    max-width: 800px;
+    margin-top: 35px;
+}
+.felix-pfp{
+    width: 45%;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: .6em;
+    margin-bottom: 1em;
+}
